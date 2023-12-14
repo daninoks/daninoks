@@ -6,7 +6,7 @@ $ neofetch
                  `ooo/                    Uptime: 27 years
                 `+oooo:                   Kernel: MIDPLUS-DEVOPS
                `+oooooo:                  Shell: zsh 5.9
-               -+oooooo+:                 WM: Quartz Compositor 
+               -+oooooo+:                 WM: Quartz Compositor (prev: Metacity)
              `/:-:++oooo+:                Terminal: Tabby
             `/++++/+++++++:               
            `/++++++++++++++:              user info
