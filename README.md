@@ -11,7 +11,7 @@ $ neofetch
             `/++++/+++++++:               user info
            `/++++++++++++++:              ---------
           `/+++ooooooooooooo/`            Skills 
-         ./ooosssso++osssssso+`           Tools: AWS / sls / Git CI / Jenkis / Docker / k8s
+         ./ooosssso++osssssso+`           Tools:     AWS / sls / Git CI / Jenkis / Docker / k8s
         .oossssso-````/ossssss+`          Languages: Pyhon / Groovy / Bash
        -osssssso.      :ssssssso.         Databases: Postgre / Mongo
       :osssssss/        osssso+++.        
