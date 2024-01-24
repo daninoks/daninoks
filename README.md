@@ -13,7 +13,7 @@ $ neofetch
           `/+++ooooooooooooo/`            ---------
          ./ooosssso++osssssso+`           Tools:     AWS / sls / Git CI / Jenkis / Docker / k8s
         .oossssso-````/ossssss+`          Languages: Pyhon / Groovy / Bash
-       -osssssso.      :ssssssso.         Databases: Postgre / Mongo
+       -osssssso.      :ssssssso.         Databases: Postgre / Mongo / Dynamo
       :osssssss/        osssso+++.        
      /ossssssss/        +ssssooo/-        fingerprint
    `/ossssso+/:-        -:/+osssso+-      -----------
