@@ -7,7 +7,7 @@ $ neofetch
                 `+oooo:                   Kernel: MIDPLUS-DEVOPS
                `+oooooo:                  Shell: zsh 5.9
                -+oooooo+:                 WM: Quartz Compositor (prev: Metacity)
-             `/:-:++oooo+:                Terminal: Tabby
+             `/:-:++oooo+:                Terminal: Tabby / Warp
             `/++++/+++++++:               
            `/++++++++++++++:              user info
           `/+++ooooooooooooo/`            ---------
