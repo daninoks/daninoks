@@ -1,16 +1,21 @@
-## Hi there 👋
+$ neofetch
 
-<!--
-**daninoks/daninoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                   -`                     daninoks
+                  .o+`                    --------------------
+                 `ooo/                    Uptime: 29 years
+                `+oooo:                   Kernel: Sr.DevOps / Sr.PyDev
+               `+oooooo:                  Shell: zsh 5.9
+               -+oooooo+:                 WM: Quartz Compositor (prev: Metacity)
+             `/:-:++oooo+:                Terminal: Warp
+            `/++++/+++++++:               
+           `/++++++++++++++:              user info
+          `/+++ooooooooooooo/`            ---------
+         ./ooosssso++osssssso+`           Tools:     AWS / GCP / sls / Git CI / Jenkis / Docker / k8s
+        .oossssso-````/ossssss+`          Languages: Pyhon / Groovy / Bash
+       -osssssso.      :ssssssso.         Databases: Postgre / Mongo / Dynamo
+      :osssssss/        osssso+++.        
+     /ossssssss/        +ssssooo/-        fingerprint
+   `/ossssso+/:-        -:/+osssso+-      -----------
+  `+sso+:-`                 `.-/+oso:     
+ `++:.                           `-/+/    TON: UQAslfMo4KLRVwKZjQM3R9g4SBp2mTnoGB058uxT5f25q_C9
+ .`                                 `     ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇
