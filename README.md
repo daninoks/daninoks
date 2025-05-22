@@ -1,3 +1,4 @@
+```
 $ neofetch
 
                    -`                     daninoks
@@ -16,6 +17,7 @@ $ neofetch
       :osssssss/        osssso+++.        
      /ossssssss/        +ssssooo/-        fingerprint
    `/ossssso+/:-        -:/+osssso+-      -----------
-  `+sso+:-`                 `.-/+oso:     
+  `+sso+:-`                 `.-/+oso:     .
  `++:.                           `-/+/    TON: UQAslfMo4KLRVwKZjQM3R9g4SBp2mTnoGB058uxT5f25q_C9
  .`                                 `     ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇ ▇▇
+```
